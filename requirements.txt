@@ -4,3 +4,4 @@ streamlit==1.40.2
 newspaper3k==0.2.8
 requests==2.32.3
 nltk==3.8.1
+lxml==4.9.2
